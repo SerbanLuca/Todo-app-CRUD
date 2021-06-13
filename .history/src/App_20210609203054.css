@@ -1,0 +1,46 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app__form
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 20vh;
+}
+
+.app__todo
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.app__button
+{
+  position: absolute;
+  left: 45%;
+  border-radius: 20px;
+  background-color: rgb(30, 0, 99);
+  color: white;
+  margin: 5px;
+}
+
+.app__header
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.app__list
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

@@ -1,0 +1,9 @@
+.app__todo
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 35px;
+  width: 120px;
+  background-color: lightskyblue;
+}

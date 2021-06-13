@@ -1,0 +1,10 @@
+.app__todo
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 35px;
+  height: 40px;
+  width: 120px;
+  background-color: lightskyblue;
+}

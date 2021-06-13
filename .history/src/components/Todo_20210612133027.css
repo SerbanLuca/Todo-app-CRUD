@@ -1,0 +1,23 @@
+.todo__todo
+{
+  height: 80%;
+  width: 50%;
+  border-radius: 30px;
+  background-color: lightskyblue;
+  margin: 20px;
+}
+
+.todo__button
+{
+  height: 40px;
+  width: 80px;
+  border-radius: 20px;
+  background-color: rgb(30, 0, 99);
+  color: white;
+  margin: 5px;
+}
+
+.todo__date
+{
+  padding: 35px;
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Open+Sans&family=Permanent+Marker&display=swap');
+
+
+.todo__todo
+{
+  height: 40%;
+  width: 50%;
+  border-radius: 30px;
+  background-color: lightskyblue;
+  margin: 20px;
+  padding: 30px;
+}
+
+.todo__button
+{
+  height: 40px;
+  width: 80px;
+  border-radius: 20px;
+  background-color: rgb(30, 0, 99);
+  color: white;
+  margin: 5px;
+}
+
+.todo__date
+{
+  color: rgb(253, 0, 0);
+  font-family: 'Permanent Marker', cursive;
+}

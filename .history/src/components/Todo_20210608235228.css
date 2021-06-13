@@ -1,0 +1,16 @@
+.app__todo
+{
+  height: 80px;
+  width: 200px;
+  border-radius: 30px;
+  background-color: lightskyblue;
+  margin: 20px;
+}
+
+.todo__button
+{
+  height: 40px;
+  width: 60px;
+  border-radius: 30px;
+  background-color: lightskyblue;
+}

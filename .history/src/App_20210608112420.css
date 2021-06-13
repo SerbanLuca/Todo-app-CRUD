@@ -1,0 +1,28 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app__form
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 20vh;
+}
+
+.app__todo
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.app__header
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
